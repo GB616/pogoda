@@ -1,0 +1,4 @@
+[{"temperatura":17.0,"cisnienie":1006.0,"wiatr":"11km/h NW","wilgotnosc":69.0,"data":{"rok":"2019","miesiac":"06","dzien":"01"}}]
+[{"temperatura":21.0,"cisnienie":1016.0,"wiatr":"7km/h SE","wilgotnosc":24.0,"data":{"rok":"2019","miesiac":"06","dzien":"02"}}]
+[{"temperatura":23.0,"cisnienie":1000.0,"wiatr":"30km/h  NE","wilgotnosc":10.0,"data":{"rok":"2019","miesiac":"06","dzien":"03"}}]
+[{"temperatura":12.0,"cisnienie":1001.0,"wiatr":"34km/h SE","wilgotnosc":1.0,"data":{"rok":"2019","miesiac":"06","dzien":"04"}}]
